@@ -16,3 +16,5 @@
 욤마헛
 
 rebase 개발
+
+merge 로 개발
