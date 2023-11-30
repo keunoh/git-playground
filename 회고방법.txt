@@ -1,0 +1,14 @@
+참고 URL : https://www.inflearn.com/pages/weekly-inflearn-41-20220215
+
+5F
+5F는 다음 다섯 개의 키워드에 따라 순서대로 회고를 진행하는 방식
+
+Fact (사실 : 무슨 일이 있었나?)
+Feeling (느낌 : 무슨 느낌이 들었나?)
+Finding (배운점 : 어떤 인사이트를 얻었나?)
+Future action (향후 행동 : 앞으로 무엇을 해야 할까?)
+Feedback (피드백 : 앞서 정한 향후 행동을 실천해본 뒤, 이에 대해 어떤 피드백을 받았나?) 
+
+KPT
+KPT는 각각 Keep, Problem, Try의 약자입니다. 이름에서 알 수 있듯 3가지 관점에서 업무를 돌아보고,
+다음 액션 아이템을 도출해내는 데 도움이 되는 회고 템플릿
